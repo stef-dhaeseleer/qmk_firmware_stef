@@ -21,9 +21,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
-#define CAPS_WORD_TOGGLE_KEY
 #define CAPS_WORD_IDLE_TIMEOUT 5000  // Turn off Caps Word after 5 seconds.
-
-#define KC_CAD	LALT(LCTL(KC_DEL))  // CTRL ALT DEL macro
-
-
